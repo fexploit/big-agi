@@ -8,21 +8,21 @@
  */
 export const Brand = {
   Title: {
-    Base: 'big-AGI',
-    Common: (process.env.NODE_ENV === 'development' ? '[DEV] ' : '') + 'big-AGI',
+    Base: 'RonGPT',
+    Common: (process.env.NODE_ENV === 'development' ? '[DEV] ' : '') + 'RonGPT',
   },
   Meta: {
     Description: 'Leading open-source AI web interface to help you learn, think, and do. AI personas, superior privacy, advanced features, and fun UX.',
-    SiteName: 'big-AGI | Harnessing AI for You',
+    SiteName: 'RonGPT - AI for Everyone',
     ThemeColor: '#434356',
     TwitterSite: '@enricoros',
   },
   URIs: {
-    Home: 'https://big-agi.com',
-    // App: 'https://get.big-agi.com',
+    Home: 'https://gpt.ron.digital',
+    // App: 'https://gpt.ron.digital',
     CardImage: 'https://big-agi.com/icons/card-dark-1200.png',
-    OpenRepo: 'https://github.com/enricoros/big-agi',
-    SupportInvite: 'https://discord.gg/MkH4qj2Jp9',
+    OpenRepo: 'https://github.com/fexploit',
+    SupportInvite: 'https://discord.gg/',
     // Twitter: 'https://www.twitter.com/enricoros',
   },
 };
